@@ -59,6 +59,10 @@ mlxtend.frequent_patterns -Implements Apriori, FP-Growth, and association rule g
 matplotlib - Data visualization (bar charts and plots).
 pathlib -File path management for Windows. 
 
+Sample outputs (screenshots or tables)
+-  <img width="1500" height="750" alt="top_itemsets_support" src="https://github.com/user-attachments/assets/10721a9f-1fdb-4e1b-8559-49cef3f73824" />
+
+
 
 #Interpretations of Results
 
