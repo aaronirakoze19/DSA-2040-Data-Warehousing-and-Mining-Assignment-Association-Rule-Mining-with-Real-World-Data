@@ -1,0 +1,5 @@
+Algorithm,Min Support,#Itemsets,Time (s)
+Apriori,0.02,259,211.338
+FP-Growth,0.02,259,57.098
+Apriori,0.03,89,15.837
+FP-Growth,0.03,89,51.56
